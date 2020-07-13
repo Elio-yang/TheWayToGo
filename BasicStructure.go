@@ -21,9 +21,11 @@ func main() {
 	fmt.Println(d)
 
 }
+
 func func1() {
 	fmt.Println("this is a function call")
 }
+
 func Sum(a float32, b int) int {
 	return int(a) + b
 }
